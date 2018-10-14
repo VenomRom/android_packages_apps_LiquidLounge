@@ -393,8 +393,8 @@
     <string name="show_fourg_icon_summary">Display 4G icon in signal icon instead LTE</string>    
 
     <!-- Liquid statusbar logo -->
-    <string name="status_bar_logo_title">Liquid logo</string>
-    <string name="status_bar_logo_summary">Allow Liquid logo on your statusbar</string>
+    <string name="status_bar_logo_title">Venom logo</string>
+    <string name="status_bar_logo_summary">Allow Venom logo on your statusbar</string>
 
     <!-- Smart pixels -->
     <string name="smart_pixels_title">Smart pixels</string>
